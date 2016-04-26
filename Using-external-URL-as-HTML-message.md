@@ -4,7 +4,7 @@ When setting up a new campaign you can either select a template or an URL as the
 
 ![](https://cldup.com/0aJnw3Pr8A.png)
 
-Here's an example PHP script for responding to render requests:
+Here's an example PHP script for responding to render requests at `http://example.com/newsletter.php`:
 
 ```php
 <p>Hello <?= $_POST['FULL_NAME'] ?></p>

@@ -23,3 +23,7 @@ Here's an example PHP script for responding to render requests at `http://exampl
     <a href="<?= $_POST['LINK_BROWSER'] ?>">View this message in a browser</a>
 </p>
 ```
+
+Resulting message should look like this:
+
+![](https://cldup.com/4ICS4ISr1H.png)

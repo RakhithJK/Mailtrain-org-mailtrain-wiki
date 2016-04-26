@@ -6,6 +6,6 @@ To use it define "Delay sending" options before hitting the "Send" button
 
 ![](https://cldup.com/a5A4x8KdZI.png)
 
-If you do not provide the optional delay hours and delay minutes values then sending starts immediatelly. If you have set these values then you see that the campaign is scheduledand you also have an option to cancel the sending before the scheduled time is reached.
+If you do not provide the optional delay hours and delay minutes values then sending starts immediatelly. If you have set these values then you see that the campaign is scheduled and you also have an option to cancel the sending before the scheduled time is reached.
 
 ![](https://cldup.com/QEYGWw0UEb.png)

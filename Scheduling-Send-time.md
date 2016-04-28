@@ -1,4 +1,4 @@
-> This feature applies to Mailtrain v1.3+ which at the moment is available from a [development branch](https://github.com/andris9/mailtrain/tree/v1.3)
+> This feature applies to Mailtrain v1.3+
 
 Mailtrain offers simple sending scheduling which means that you can define an optional start time for the campaign. Before this time is reached no messages are sent.
 

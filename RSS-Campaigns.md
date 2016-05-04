@@ -1,4 +1,6 @@
-Mailtrain can be used to track a RSS feed – whenever a new entry appears in that feed, it is converted into a campaign and sent to specified subscribers
+> This feature applies to Mailtrain v1.4+
+
+Mailtrain can be used to track a RSS feed – whenever a new entry appears in that feed, it is converted into a campaign and sent to specified subscribers. You can also use merge tags in post content or post title, these are replaced with subscriber specific values.
 
 ### 1. Create a new RSS campaign
 

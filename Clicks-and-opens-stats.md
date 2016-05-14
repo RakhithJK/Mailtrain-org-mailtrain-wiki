@@ -12,4 +12,4 @@ For example a list of subscribers who opened the message looks like this:
 
 ![](https://cldup.com/EjNqy_4vSj.png)
 
-> Existing campaigns show N/A as the first opened/clicked time for a subscribers as this information was not stored before the v1.9 update
+> Existing campaigns show N/A as the first opened/clicked time for subscribers as this information was not stored before the v1.9 update

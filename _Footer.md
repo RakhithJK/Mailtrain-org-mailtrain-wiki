@@ -1,0 +1,1 @@
+© 2016 Kreata OÜ [Mailtrain.org](https://mailtrain.org), info@mailtrain.org.

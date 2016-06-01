@@ -2,7 +2,7 @@
 
 In addition to exact matches and date ranges you can also use relative date ranges in segments where a date field is compared against current date. This allows you to create segments like "from 7 days before today to 5 days after today" where today means current date in UTC timezone.
 
-To start create a new rule for a segment and choose a date field like Sign-up date (birthday fields do not support relative date ranges).
+To start create a new rule for a segment and choose a date field like Sign-up date or some custom date field (you can only use full date fields, birthday fields are not supported).
 
 ![](https://cldup.com/l1xN-K5VGb.png)
 

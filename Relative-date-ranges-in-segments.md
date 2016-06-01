@@ -13,3 +13,5 @@ Next check the radio button for "Use relative range match" and set the start and
 Once you have created the rule, it should appear in the segment rules list
 
 ![](https://cldup.com/2Cz7CSzaSA.png)
+
+> In case of range start the date value means the beginning of that day in UTC. In case of range end the date value means the end of that day in UTC.

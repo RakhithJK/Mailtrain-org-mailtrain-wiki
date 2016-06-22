@@ -45,6 +45,6 @@ Once saved, the trigger should appear in the triggers list. The trigger is now s
 
 ### Step 8.
 
-Whenever a user matches rigger rule, a message is sent to this user. In this case the user should receive a "Welcome" email 1 day after signup. All triggers can fire once per user, so the same user can never receive the same message more than once.
+Whenever a user matches trigger rule, a message is sent to this user. In this case the user should receive a "Welcome" email 1 day after signup. All triggers can fire once per user, so the same user can never receive the same message more than once.
 
 ![](https://cldup.com/4nfDcVFFbN.png)

@@ -33,7 +33,7 @@ Next you need to select a list this trigger is related to. You can't use campaig
 
 ### Step 6.
 
-Select the trigger rule. In this case we select that the Sign-up must have happened 1 day ago for this trigger to fire
+Select the trigger rule. In this case we select that the Sign-up must have happened 1 day ago for this trigger to fire. You would also need to select the campaign that is sent when the trigger fires. This is where the Triggered Campaigns kick in.
 
 ![](https://cldup.com/0GNIG3uAx4.png)
 

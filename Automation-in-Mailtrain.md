@@ -1,4 +1,4 @@
-> This feature applies to Mailtrain v1.12.0
+> This feature applies to Mailtrain v1.12+
 
 Mailtrain has some built-in automation support. This is achieved through a triggering system. List maintainer can define a set of triggers that fire on some special occasion (X days after subscriber sign-up or Y days after subscriber clicked on a link in campaign Z).
 

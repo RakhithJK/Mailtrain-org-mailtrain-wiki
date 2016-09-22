@@ -7,6 +7,8 @@ By default the posfix log reading server is not started. You need to enable it i
 ```toml
 [postfixbounce]
 enabled=true
+port=5699
+host="127.0.0.1"
 ```
 
 ### Send data to Mailtrain

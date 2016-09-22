@@ -19,6 +19,8 @@ Next you would need to either *tail* Postfix logs in real time or alternatively,
 tail -F /var/log/mail.log | nc localhost 5699 -
 ```
 
+You do not need to send all lines but only those that include the bounce information, so you could grep the data with `status=bounced` to keep the data to process minimal. If you send the entire log though, then Mailtrain finds these lines itself and ignores the rest.
+
 For your convenience here's a simple systemd service script to keep the tail working
 
 ```

@@ -2,14 +2,16 @@ Mailtrain is able to detect bounced messages from Postfix *mail.log*. This file 
 
 ### Enable Postfix bounce handling
 
-By default the posfix log reading server is not started. You need to enable it in the config file
+By default the posfix log reading server is not started. You need to enable it in the config (production.yaml or default.yaml or similiar) file
 
-```toml
-[postfixbounce]
-enabled=true
-port=5699
-host="127.0.0.1"
+```yaml
+postfixBounce:
+  enabled: true
+  port: 5699
+  host: 127.0.0.1
 ```
+
+You can also use the Docker environment variables descripted in the [REAMDE](https://github.com/Mailtrain-org/mailtrain#docker-environment-variables)
 
 ### Send data to Mailtrain
 

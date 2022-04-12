@@ -1,4 +1,4 @@
-Tutorial for **mailtrain v2**
+> This has only been tested with Mailtrain v2+
 
 After changing one of the language files located in `mailtrain/locales` its necessary to **rebuild** the Node.js applications for the changes to take effect.
 

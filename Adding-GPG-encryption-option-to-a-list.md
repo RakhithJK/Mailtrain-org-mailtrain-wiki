@@ -1,4 +1,4 @@
-You can add GPG encryption option to any list. To do this you should add a new custom field of "GPG Public Key" type. If a subscriber has successfully set up GPG key then all messages sent to this subscriber are GPG encrypted using the provided key.
+# You can add GPG encryption option to any list. To do this you should add a new custom field of "GPG Public Key" type. If a subscriber has successfully set up GPG key then all messages sent to this subscriber are GPG encrypted using the provided key.
 
 **1. Open Custom fields**
 
